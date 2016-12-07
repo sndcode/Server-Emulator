@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\TheNoobBot_ServerEmu.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\TheNoobBot_ServerEmu.ns0.Class1.resources
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\ns0.Form1.resources
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\TheNoobBot_ServerEmu.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\TheNoobBot_ServerEmu.exe
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\TheNoobBot_ServerEmu.pdb
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\ampedLib.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\FiddlerCore4.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\TheNoobBot_ServerEmu.exe
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Release\TheNoobBot_ServerEmu.pdb
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\ampedServerEmu.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Release\ampedServerEmu.pdb

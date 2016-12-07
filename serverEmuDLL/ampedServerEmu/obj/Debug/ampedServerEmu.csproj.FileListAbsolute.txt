@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\EmulatorFixed\codes\serverEmuDLL\ampedServerEmu\bin\Debug\ampedServerEmu.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\serverEmuDLL\ampedServerEmu\bin\Debug\ampedServerEmu.pdb
+C:\Users\admin\Desktop\EmulatorFixed\codes\serverEmuDLL\ampedServerEmu\bin\Debug\FiddlerCore4.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\serverEmuDLL\ampedServerEmu\obj\Debug\ampedServerEmu.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\serverEmuDLL\ampedServerEmu\obj\Debug\ampedServerEmu.pdb
+C:\Users\admin\Desktop\EmulatorFixed\compiled\ampedServerEmu.dll
+C:\Users\admin\Desktop\EmulatorFixed\compiled\ampedServerEmu.pdb

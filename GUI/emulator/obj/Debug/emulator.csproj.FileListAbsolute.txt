@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Debug\emulator.exe
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Debug\emulator.pdb
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Debug\ampedServerEmu.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Debug\FiddlerCore4.dll
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\bin\Debug\ampedServerEmu.pdb
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Debug\emulator.frmMain.resources
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Debug\emulator.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Debug\emulator.exe
+C:\Users\admin\Desktop\EmulatorFixed\codes\GUI\TheNoobBot_ServerEmu\obj\Debug\emulator.pdb
+C:\Users\admin\Desktop\EmulatorFixed\compiled\emulator.exe
+C:\Users\admin\Desktop\EmulatorFixed\compiled\emulator.pdb
