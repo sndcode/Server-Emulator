@@ -1,0 +1,3 @@
+Readme of Server Emu:
+
+- To add or modify fake responses edit "ServerEmuDLL\ServerEmu.cs"
